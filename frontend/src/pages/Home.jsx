@@ -37,7 +37,7 @@ const creators = [
   },
   {
     name: "S.Chetan Reddy",
-    role: "API development, database design, auth, and logic",
+    role: "API development, database design",
     image: "../../chetan_reddy_img.jpg",
     description: "Designing intuitive and beautiful interfaces that connect people and create meaningful experiences.",
     skills: [
@@ -53,7 +53,7 @@ const creators = [
   },
   {
     name: "Ch.Jyoshikha",
-    role: "Connect with alumni & students, promote usage",
+    role: "Connect with alumni & students",
     image: "../../jyoshika_img.jpg",
     description: "A strategic thinker dedicated to building products that solve real-world problems for our community.",
     skills: [
