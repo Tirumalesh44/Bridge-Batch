@@ -41,10 +41,10 @@ const creators = [
     image: "../../chetan_reddy_img.jpg",
     description: "Designing intuitive and beautiful interfaces that connect people and create meaningful experiences.",
     skills: [
-      { icon: <Palette className="h-4 w-4" />, text: "UI/UX Design" },
-      { icon: <Heart className="h-4 w-4" />, text: "User Research" },
-      { icon: <Users className="h-4 w-4" />, text: "Prototyping" }
-    ],
+    { icon: <Code className="h-4 w-4" />, text: "RESTful API Development" },
+    { icon: <Briefcase className="h-4 w-4" />, text: "Database Architecture" },
+    { icon: <Building className="h-4 w-4" />, text: "System Design" }
+  ],
     socialLinks: [
       { icon: <Github className="h-5 w-5" />, href: "https://gitHub.com/ChetanReddy1303", label: "GitHub" },
       { icon: <Linkedin className="h-5 w-5" />, href: "https://linkedIn.com/in/chetanreddysangam/", label: "LinkedIn" },
@@ -57,10 +57,10 @@ const creators = [
     image: "../../jyoshika_img.jpg",
     description: "A strategic thinker dedicated to building products that solve real-world problems for our community.",
     skills: [
-      { icon: <Briefcase className="h-4 w-4" />, text: "Product Strategy" },
-      { icon: <Building className="h-4 w-4" />, text: "Agile Methodologies" },
-      { icon: <Users className="h-4 w-4" />, text: "Community Building" }
-    ],
+    { icon: <Users className="h-4 w-4" />, text: "Alumni Relations" },
+    { icon: <Heart className="h-4 w-4" />, text: "Communication & Empathy" },
+    { icon: <Briefcase className="h-4 w-4" />, text: "Strategic Planning" }
+  ],
     socialLinks: [
       { icon: <Github className="h-5 w-5" />, href: "https://github.com/Jyo2207", label: "GitHub" },
       { icon: <Linkedin className="h-5 w-5" />, href: "https://www.linkedin.com/in/jyoshika-ch-b98782291/", label: "LinkedIn" },
