@@ -5,7 +5,7 @@ import { Users, GraduationCap, LogIn, ArrowRight, Building, Briefcase, Github, L
 const creators = [
   {
     name: "Varanasi Pavan Kalyan",
-    role: "",
+    role: "Co-Founder & Software Engineer",
     image: "../../Pavan_photo.jpg",
     description: "Passionate full-stack developer with a vision to bridge the gap between alumni and students through innovative technology.",
     skills: [
@@ -21,7 +21,7 @@ const creators = [
   },
   {
     name: "V.Tirumalesh Naidu",
-    role: "",
+    role: "Co-Founder & Technical Strategist",
     image: "../../Tirumalesh_img.jpg",
     description: "Creative problem-solver focused on building seamless digital solutions that strengthen the bond between students and alumni.",
     skills: [
@@ -37,7 +37,7 @@ const creators = [
   },
   {
     name: "S.Chetan Reddy",
-    role: "",
+    role: "API development, database design, auth, and logic",
     image: "../../chetan_reddy_img.jpg",
     description: "Designing intuitive and beautiful interfaces that connect people and create meaningful experiences.",
     skills: [
@@ -53,7 +53,7 @@ const creators = [
   },
   {
     name: "Ch.Jyoshikha",
-    role: "",
+    role: "Connect with alumni & students, promote usage",
     image: "../../jyoshika_img.jpg",
     description: "A strategic thinker dedicated to building products that solve real-world problems for our community.",
     skills: [
